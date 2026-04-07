@@ -1,5 +1,5 @@
 # Hi there, I'm Devansh Verma 👋
-**AI & ML Engineer | Full Stack Developer**
+**AI & ML Engineer | Full Stack Developer | Data Analyst**
 
 Passionate and enthusiastic developer with a strong foundation in building web applications, AI models, and data-driven solutions. I specialize in bridging the gap between robust backend logic and intelligent machine learning systems.
 
