@@ -6,10 +6,10 @@ Passionate and enthusiastic developer with a strong foundation in building web a
 ---
 
 ### 🛠 Tech Stack
-* **Languages:** React, Python, Java, JavaScript, C++ [cite: 9]
-* **Databases:** SQL, PostgreSQL, MySQL [cite: 10]
-* **AI/ML Tools:** TensorFlow, Keras, OpenCV, YOLOv5/v8, DeepSORT [cite: 24, 29, 36, 38]
-* **Other Tools:** Power BI, Linux Scripting, Research Analysis [cite: 11]
+* **Languages:** React, Python, Java, JavaScript, C++ 
+* **Databases:** SQL, PostgreSQL, MySQL 
+* **AI/ML Tools:** TensorFlow, Keras, OpenCV, YOLOv5/v8, DeepSORT 
+* **Other Tools:** Power BI, Linux Scripting, Research Analysis 
 
 ---
 
@@ -30,7 +30,7 @@ Passionate and enthusiastic developer with a strong foundation in building web a
 ---
 
 ### 🎓 Certifications & Education
-* **M.Tech in CSE** - University of Petroleum and Energy Studies, Dehradun (Exp. June 2025)
+* **M.Tech in CSE** - University of Petroleum and Energy Studies, Dehradun (2025)
 * **B.Tech in CSE** - University of Petroleum and Energy Studies, Dehradun (2022).
 
 **Professional Certifications:**
