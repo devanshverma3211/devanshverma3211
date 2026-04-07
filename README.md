@@ -34,10 +34,10 @@ Passionate and enthusiastic developer with a strong foundation in building web a
 * **B.Tech in CSE** - University of Petroleum and Energy Studies, Dehradun (2022).
 
 **Professional Certifications:**
-* ☕ **Java Full Stack** - Croma Campus (Jan 2026) [cite: 50]
-* 📊 **Power BI & Advanced Excel** - Croma Campus (Jan 2026) [cite: 53, 54]
-* 🏗 **Software Project Management** - University of Alberta via Coursera [cite: 51]
-* 💡 **Innovation & Entrepreneurship** - EIT Digital via Coursera [cite: 52]
+* ☕ **Java Full Stack** - Croma Campus (Jan 2026) 
+* 📊 **Power BI & Advanced Excel** - Croma Campus (Jan 2026) 
+* 🏗 **Software Project Management** - University of Alberta via Coursera 
+* 💡 **Innovation & Entrepreneurship** - EIT Digital via Coursera 
 
 ---
 
