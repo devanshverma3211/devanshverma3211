@@ -19,7 +19,7 @@ Passionate and enthusiastic developer with a strong foundation in building web a
 * **Tech:** Python, TensorFlow/Keras, OpenCV
 * Designed and trained a CNN model for plant disease classification using dropout and batch normalization to ensure high precision
 
-#### 🚗 [Self-Driving Car System](https://github.com/devanshverma0099/SELF-DRIVING-CAR)
+#### 🚗 [Self-Driving Car System](https://github.com/devanshverma3211/SELF-DRIVING-CAR)
 * **Tech:** Python, TensorFlow, OpenCV
 * Built a CNN-based system for steering angle prediction, integrating real-time lane detection and obstacle avoidance
 
