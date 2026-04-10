@@ -48,7 +48,7 @@ Passionate and enthusiastic developer with a strong foundation in building web a
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/devansh-verma](https://linkedin.com/in/devansh-verma) 
+* **LinkedIn:** [linkedin.com/in/devansh-verma](https://www.linkedin.com/in/devanshverma0/) 
 * **Email:** [devanshverma0099@gmail.com](mailto:devanshverma0099@gmail.com) 
 * **Portfolio:** [Check out my React Portfolio!](https://github.com/devanshverma3211/Portfolio)
 
