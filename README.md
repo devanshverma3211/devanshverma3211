@@ -19,7 +19,7 @@ Passionate and enthusiastic developer with a strong foundation in building web a
 * **Tech:** Python, TensorFlow/Keras, OpenCV
 * Designed and trained a CNN model for plant disease classification using dropout and batch normalization to ensure high precision
 
-#### 🚗 Self-Driving Car System
+#### 🚗 [Self-Driving Car System](https://gitub.com/devanshverma0099/Self)
 * **Tech:** Python, TensorFlow, OpenCV
 * Built a CNN-based system for steering angle prediction, integrating real-time lane detection and obstacle avoidance
 
@@ -43,7 +43,7 @@ Passionate and enthusiastic developer with a strong foundation in building web a
 
 ### 🏆 Experience Highlights
 * **IBM Internship (Phemesoft):** Developed real-time surveillance systems using YOLO for intrusion alerts and object tracking
-* [**Bharti Airtel Limited:** Built responsive web interfaces and integrated MySQL backends.
+* **Bharti Airtel Limited:** Linux scripting , billing ,development.
 
 ---
 
