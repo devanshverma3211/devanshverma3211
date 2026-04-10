@@ -24,7 +24,7 @@ Passionate and enthusiastic developer with a strong foundation in building web a
 * Built a CNN-based system for steering angle prediction, integrating real-time lane detection and obstacle avoidance
 
 #### 🔍 Comparative Analysis of Uninformed Algorithms
-* [**Tech:** Java, Eclipse IDE, Java Collections Framework.
+* **Tech:** Java, Eclipse IDE, Java Collections Framework.
 * Developed and evaluated BFS, DFS, and UCS algorithms, focusing on time complexity and memory optimization.
 
 ---
