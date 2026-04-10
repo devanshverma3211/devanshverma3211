@@ -6,9 +6,9 @@ Passionate and enthusiastic developer with a strong foundation in building web a
 ---
 
 ### 🛠 Tech Stack
-* **Languages:** React, Python, Java, JavaScript, C++ 
-* **Databases:** SQL, PostgreSQL, MySQL 
-* **AI/ML Tools:** TensorFlow, Keras, OpenCV, YOLOv5/v8, DeepSORT 
+* **Languages:** Python, Java Full Stack, C/C++ 
+* **Databases:** OracleDB, PostgreSQL, MySQL
+* **Library:** React,jsx,TensorFlow, Keras, OpenCV, YOLOv5/v8, DeepSORT 
 * **Other Tools:** Power BI, Linux Scripting, Research Analysis 
 
 ---
